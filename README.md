@@ -1,5 +1,8 @@
-Playwright Registration Test
+**Playwright Registration Test**
+
+
 Introduction
+
 Welcome to the User Profile Creation Page for the QA-assesment Automation Project! This project aims to automate the testing of the signup functionality of QA-Assement. By automating the signup process, we can ensure its functionality works as expected and identify any potential issues early in the development cycle.
 
 Prerequisites to run test
